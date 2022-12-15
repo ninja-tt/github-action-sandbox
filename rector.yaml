@@ -1,0 +1,14 @@
+parameters:
+  sets:
+    - 'action-injection-to-constructor-injection'
+    - 'array-str-functions-to-static-call'
+    - 'celebrity'
+    - 'doctrine'
+    - 'phpstan'
+    - 'phpunit-code-quality'
+    - 'solid'
+    - 'early-return'
+    - 'doctrine-code-quality'
+    - 'dead-code'
+    - 'code-quality'
+    - 'php81'
