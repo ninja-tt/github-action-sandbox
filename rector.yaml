@@ -11,4 +11,4 @@ parameters:
     - 'doctrine-code-quality'
     - 'dead-code'
     - 'code-quality'
-    - 'php81'
+    - 'php80'
